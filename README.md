@@ -1,17 +1,16 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Karansingh%20B%20Borde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20Analyst%20%7C%20Full-Stack%20Developer%20in%20the%20Making&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Karansingh%20B%20Borde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node%20%C2%B7%20MongoDB&descAlignY=60&descAlign=50)
 
 <div align="center">
 
 ### Hey, I'm Karan 👋
 
-**Technology Analyst @ Infosys** · Building my way into full-stack development with the MERN stack.
-
-I'm not switching careers — I'm expanding what I'm capable of.
-By day I work in tech. By night I build real projects from scratch.
+**Senior Software Engineer @ Infosys** · 4+ years building enterprise-grade full-stack applications.
+React.js · Node.js · TypeScript · MongoDB · AWS · Redux
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karansingh-b-borde-1662451b9/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkaransinghb@gmail.com)
 
 </div>
 
@@ -21,12 +20,15 @@ By day I work in tech. By night I build real projects from scratch.
 
 ```javascript
 const karan = {
-  role:       "Technology Analyst @ Infosys",
-  building:   "Full-Stack Developer (MERN)",
-  currently:  "Building VoteChain — a secure MERN voting platform",
-  learning:   ["React", "Node.js", "Express", "MongoDB", "JWT Auth"],
-  mindset:    "Every line of code is written with purpose",
-  funFact:    "Professional by day, developer by night 🌙"
+  role:        "Senior Software Engineer @ Infosys",
+  experience:  "4+ years in enterprise full-stack development",
+  domain:      "Banking & Finance (Finacle)",
+  stack:       ["React.js", "Node.js", "Express.js", "MongoDB", "TypeScript"],
+  cloud:       "AWS EC2",
+  currently:   "Deepening MERN skills — building VoteChain from scratch",
+  achievement: "25% faster API response · 99.5% system uptime · 30% fewer bugs",
+  location:    "Bangalore, India 🇮🇳",
+  funFact:     "I write production code by day and personal projects by night 🌙"
 }
 ```
 
@@ -34,36 +36,74 @@ const karan = {
 
 ## 🛠️ Tech Stack
 
-**Currently working with:**
+**Frontend**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+**Database & Cloud**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+**Tools**
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## 🚀 Featured Project
+## 💼 Professional Experience
+
+### 🏢 Infosys Limited — Technology Analyst *(Apr 2022 – Present)*
+
+Working on enterprise banking applications under the **Finacle** platform:
+
+| Project | Period | Role |
+|---|---|---|
+| NAM Bank Application | Nov 2025 – Present | React UI + AI-assisted scaffolding |
+| PNB Portal Application | Dec 2024 – Oct 2025 | Full-stack · AWS EC2 · SPOC |
+| Wealth Management System | Nov 2022 – Nov 2024 | React · REST APIs · UI Architecture |
+
+**Key Achievements:**
+- ⚡ Improved API response time by **25%** via REST/SOAP optimization
+- 🛡️ Reduced security vulnerabilities by **30%** with JWT & OAuth implementation
+- 📦 Reduced initial bundle size by **35%** with code splitting & lazy loading
+- 🏗️ Reduced UI scaffolding effort by **40%** through reusable component libraries
+- ☁️ Achieved **99.5% system uptime** on AWS EC2 deployments
+
+---
+
+## 🚀 Personal Projects
 
 ### 🗳️ VoteChain — Secure MERN Voting Platform
 
-> A full-stack digital voting system built from scratch.
-> Register as a candidate. Cast your vote. Watch live results.
+> Built from scratch to go deeper into the MERN stack beyond enterprise tooling.
+> Every model, route, controller and UI component written with purpose.
 
 ```
 Stack     →  MongoDB · Express · React · Node.js
 Auth      →  JWT + bcryptjs
-Features  →  3-step registration · Live results · Duplicate vote prevention
+Features  →  3-step registration · Live results · Duplicate vote prevention (DB level)
 Status    →  🔄 In Progress
 ```
 
@@ -71,31 +111,12 @@ Status    →  🔄 In Progress
 
 ---
 
-## 📈 My Journey
-
-```
-2024 ──────────────────────────────────────────────────── 2025
-  │                                                          │
-  │  Technology Analyst @ Infosys                           │
-  │  ↓                                                      │
-  │  Started learning JavaScript & HTML/CSS                 │
-  │  ↓                                                      │
-  │  Picked up React                                        │
-  │  ↓                                                      │
-  │  Went full-stack → Node.js + Express + MongoDB          │
-  │  ↓                                                      │
-  │  Building VoteChain 🗳️                                  │
-  │                                                          │
-```
-
----
-
 ## 🎯 Currently
 
-- 🔨 Building **VoteChain** — a full-stack MERN voting system
-- 📖 Learning **JWT authentication** and REST API design
-- 🎯 Goal — ship complete full-stack projects end to end
-- 💡 Next up — connecting React frontend to Express backend
+- 🔨 Building **VoteChain** — going full-stack end to end on my own
+- 📖 Deepening knowledge of **JWT auth**, **Mongoose schemas**, and **REST API design**
+- 🎯 Goal — ship complete personal projects beyond enterprise work
+- 💡 Next — connecting React frontend to Express backend with protected routes
 
 ---
 
@@ -113,11 +134,13 @@ Status    →  🔄 In Progress
 
 <div align="center">
 
-*"I'm not just learning to code — I'm learning to build things that work."*
+*"4 years of enterprise experience taught me how to work in teams.*
+*Personal projects are teaching me how to think like an engineer."*
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karansingh-b-borde-1662451b9/)
+[![Gmail](https://img.shields.io/badge/Say_Hello-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bkaransinghb@gmail.com)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=100&section=footer)
 
