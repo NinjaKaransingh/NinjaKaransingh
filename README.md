@@ -4,7 +4,7 @@
 
 ### Hey, I'm Karan 👋
 
-**Senior Software Engineer @ Infosys** · 4+ years building enterprise-grade full-stack applications.
+**Technology Analyst @ Infosys** · 4+ years building enterprise-grade full-stack applications.
 React.js · Node.js · TypeScript · MongoDB · AWS · Redux
 
 <br/>
