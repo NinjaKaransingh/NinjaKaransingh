@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Karansingh%20B%20Borde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Senior%20Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node%20%C2%B7%20MongoDB&descAlignY=60&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=200&section=header&text=Karansingh%20B%20Borde&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Technology%20Analyst%20%7C%20Full-Stack%20Developer%20%7C%20React%20%C2%B7%20Node%20%C2%B7%20MongoDB&descAlignY=60&descAlign=50)
 
 <div align="center">
 
