@@ -96,16 +96,15 @@ Working on enterprise banking applications under the **Finacle** platform:
 ## 🚀 Personal Projects
 
 ### 🗳️ VoteChain — Secure MERN Voting Platform
-
 > Built from scratch to go deeper into the MERN stack beyond enterprise tooling.
 > Every model, route, controller and UI component written with purpose.
 
-```
 Stack     →  MongoDB · Express · React · Node.js
-Auth      →  JWT + bcryptjs
-Features  →  3-step registration · Live results · Duplicate vote prevention (DB level)
-Status    →  🔄 In Progress
-```
+Auth      →  ✅ JWT + bcryptjs, role-based access (voter/candidate/admin)
+Frontend  →  ✅ Landing page, 3-step registration, vote screen, animated live results
+Backend   →  ✅ Full REST API (auth, candidates, polls, votes, stats, image upload)
+Security  →  ✅ Dual-layer duplicate-vote prevention (app check + DB unique index)
+Status    →  🔄 In Progress — wiring frontend to live API next
 
 [![VoteChain](https://img.shields.io/badge/View_Project-1D9E75?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NinjaKaransingh/votechain)
 
